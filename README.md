@@ -4,7 +4,7 @@ Bu proje, ilkokul öğrencileri için hazırlanmış bir çarpım tablosu quiz u
 
 ## Özellikler
 - 1-12 arası rastgele çarpma soruları
-- Her soru için 10 saniye süre
+- Her soru için 30 saniye süre
 - Toplam 20 soru
 - Quiz sonunda skor gösterimi
 
