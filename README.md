@@ -1,16 +1,18 @@
 # Learn Multiplication Table
 
-Bu proje, ilkokul öğrencileri için hazırlanmış bir çarpım tablosu quiz uygulamasıdır. SwiftUI ile yazılmıştır.
+This project is a multiplication table quiz application prepared for elementary school students. It is written in SwiftUI.
 
-## Özellikler
-- 1-12 arası rastgele çarpma soruları
-- Her soru için 30 saniye süre
-- Toplam 20 soru
-- Quiz sonunda skor gösterimi
+## Features
+- Random multiplication questions from 1-12
+- 30 seconds for each question
+- Total 20 questions
+- Score display at the end of the quiz
 
-## Xcode ile Açmak 
-1. Xcode'u açın.
-2. `LearnMultiplicationTableApp.swift` ve `ContentView.swift` dosyalarını yeni bir SwiftUI projesine ekleyin veya mevcut bir projede değiştirin.
-3. Projeyi çalıştırın.
+## Opening with Xcode
+1. Open Xcode.
 
-Herhangi bir sorunuz olursa bana ulaşabilirsiniz!  ozanayyildiz@gmail.com
+2. Add `LearnMultiplicationTableApp.swift` and `ContentView.swift` files to a new SwiftUI project or modify them in an existing project.
+
+3. Run the project.
+
+If you have any questions, you can reach me! ozanayildiz@gmail.com
